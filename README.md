@@ -1,7 +1,7 @@
 <h1 align="center"> Book Recommendation System </h1>
 
 <p align="center">
-  <img src="static/images/235067025-0717cfa6-3977-40c5-b865-94226f679795.png" width="300px" height="250px">
+  <img src="235067025-0717cfa6-3977-40c5-b865-94226f679795.png" width="300px" height="250px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
