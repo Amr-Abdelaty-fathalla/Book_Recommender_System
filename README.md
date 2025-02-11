@@ -4,7 +4,7 @@
   <img src="Book Recommender System Files/BookRecommendationsPlease_MEME1.jpg" width="300px" height="250px">
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------]([https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png](https://user-images.githubusercontent.com/114379464/235067025-0717cfa6-3977-40c5-b865-94226f679795.png))
 
 <h2>:scroll: Objective </h2>
 
